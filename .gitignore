@@ -1,0 +1,11 @@
+repos_data/
+chroma_data/
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+venv/
+node_modules/
