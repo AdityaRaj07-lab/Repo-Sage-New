@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Repository data
+backend/data/*
+
+# Secrets
+.env
+.env.*
+
+# Frontend
+node_modules/
+.next/
+
+# Editor
+.vscode/

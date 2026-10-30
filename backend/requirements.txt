@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+ollama
+chromadb
+tree-sitter
+tree-sitter-python
+networkx
+gitpython
+python-dotenv
